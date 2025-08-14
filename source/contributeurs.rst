@@ -1,5 +1,5 @@
 Contributeurs
 =============
 
-- **KAWTEer Hattaki** — Développement initial.
+- **Kawter Hattaki** — Développement initial.
 - Encadré par **Mr. Masrour Tawfik**.
