@@ -7,14 +7,16 @@
 Bienvenue dans la documentation de chatbotIA
 ============================================
 
-chatbotIA est un assistant intelligent développé en Python, capable de comprendre des questions et de fournir des réponses pertinentes à partir d'un corpus de données ou d'une logique intégrée.
+chatbotIA est un assistant intelligent développé en Python capable de répondre à des questions en se basant sur le contenu de fichiers PDF téléchargés par l’utilisateur.
+Ce projet a été réalisé dans le cadre de l’année universitaire 2024/2025 en filière Génie Industriel — Intelligence Artificielle et Data Science, encadré par Mr. Masrour Tawfik.
 
 Objectifs du projet
 -------------------
-- Créer un chatbot fonctionnel en Python.
-- Intégrer un traitement du langage naturel (NLP).
-- Fournir une interface simple et intuitive.
-- Permettre une extension vers d'autres sources de données (RAG, API, etc.).
+- Traiter plusieurs fichiers PDF en même temps.
+- Extraire et indexer leur contenu pour des recherches rapides.
+- Fournir des réponses précises et contextuelles aux questions posées.
+- Maintenir un historique complet des interactions.
+- Afficher les documents utilisés et le temps de réponse.
 
 Fonctionnalités principales
 ---------------------------
