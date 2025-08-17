@@ -46,5 +46,5 @@ Ce projet a été réalisé dans le cadre de l’année universitaire **2024/202
 
 1. **Cloner le dépôt** :
 ```bash
-git clone https://github.com/VOTRE-UTILISATEUR/chatbotIA.git
+git clone https://github.com/kawahattaki/sphinx_docs
 cd chatbotIA
