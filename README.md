@@ -44,6 +44,17 @@ Ce projet a été réalisé dans le cadre de l’année universitaire **2024/202
 
 ##  Installation
 
+**Remarques importantes**
+
+- Le fichier `.env` n’est **pas inclus** dans ce dépôt car il contient la clé API personnelle (ex. `GROQ_API_KEY`).  
+   Pour utiliser l’application, vous devez créer un fichier `.env` à la racine du projet et y ajouter votre propre clé API, par exemple :
+   GROQ_API_KEY=votre_cle_api
+
+- Les fichiers volumineux générés automatiquement par FAISS (vectorestore) ne sont pas inclus dans le dépôt GitHub.  
+  Ils seront créés automatiquement lorsque vous téléverserez vos fichiers PDF dans l’application.
+
+
+
 1. **Cloner le dépôt** :
 ```bash
 git clone https://github.com/kawahattaki/sphinx_docs
